@@ -49,13 +49,14 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 33,
-    "versionPublish": "5.2.0"
+    "versionPublish": "5.2.0",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Кабинет",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -127,7 +128,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "about",
+        "title": "О чем это",
         "order": 11
       },
       "components": [
@@ -788,7 +789,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "ivan",
+        "title": "Иван",
         "order": 9
       },
       "components": [
@@ -842,7 +843,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "phantom",
+        "title": "фантом",
         "order": 8
       },
       "components": [
@@ -950,7 +951,7 @@
     },
     "page6.html": {
       "settings": {
-        "title": "chats",
+        "title": "Чаты",
         "order": 6
       },
       "components": [
@@ -1007,7 +1008,7 @@
     },
     "page7.html": {
       "settings": {
-        "title": "baza",
+        "title": "База знаний",
         "order": 5
       },
       "components": [
@@ -1061,7 +1062,7 @@
     },
     "page8.html": {
       "settings": {
-        "title": "willDoDone",
+        "title": "Сделаю - Выполнено",
         "order": 4
       },
       "components": [
@@ -1115,7 +1116,7 @@
     },
     "page9.html": {
       "settings": {
-        "title": "checklists",
+        "title": "Чеклисты",
         "order": 3
       },
       "components": [
@@ -1169,7 +1170,7 @@
     },
     "page10.html": {
       "settings": {
-        "title": "wgs",
+        "title": "Рабочие группы",
         "order": 2
       },
       "components": [
@@ -1223,7 +1224,7 @@
     },
     "page11.html": {
       "settings": {
-        "title": "reports",
+        "title": "Отчеты",
         "order": 1
       },
       "components": [
